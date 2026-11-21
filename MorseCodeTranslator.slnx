@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MorseCodeTranslator.vcxproj" Id="96b393d2-10e8-4db0-a7dd-8c98c0eab97b" />
+</Solution>
